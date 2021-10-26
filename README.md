@@ -2,4 +2,4 @@
 This is markdown language
 
 
-[NewPage](page.md)
+[NewPage](another)
