@@ -2,4 +2,4 @@
 This is markdown language
 
 
-[NewPage](another)
+[NewPage](github.com/bremonline/test-wiki/markdown.md)
